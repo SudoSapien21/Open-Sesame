@@ -12,3 +12,6 @@ Thank You to the Instructors, TAs, and Classmates who have helped with codes and
 
 ## License
 MIT License 
+
+## Screenshot
+![alt text](./Password%20Screenshot.jpg)
